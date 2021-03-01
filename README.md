@@ -7,3 +7,7 @@ Project title : Implementing Deep learning toolbox in MATLAB to help the visuall
 
 A very simple project used for a hackathon.
 
+
+Made by: Advaith Aditya
+         Poritosh Bardhan
+         Joseph Prashanth
